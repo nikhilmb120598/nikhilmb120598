@@ -1,16 +1,24 @@
-## Hi there 👋
+ Hi, I'm Nikhil MB
 
-<!--
-**nikhilmb120598/nikhilmb120598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🔭 I’m currently learning **Selenium with Python** for automation testing
+- 🌱 Exploring **Appium for mobile automation**
+- 💬 Ask me about **Python, Selenium, Automation frameworks**
+- ⚡ Fun fact: I love automating boring stuff!
 
-Here are some ideas to get you started:
+### 🧠 Skills
+- 🐍 Python  
+- 🌐 Selenium WebDriver  
+- 📱 Appium (Android automation)  
+- 🧪 Pytest, Unittest  
+- 🧰 Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmb&show_icons=true&theme=tokyonight)
+
+### 🌟 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmb&layout=compact&theme=tokyonight)
+
+### 🔗 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com)
+- 📧 Email: nikhilmb120598@gmail.com
